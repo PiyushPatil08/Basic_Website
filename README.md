@@ -15,9 +15,9 @@ Skywings is a creative web project designed to demonstrate mastery in web design
 ---
 
 ## **Technologies Used**
-- **HTML5**
-- **CSS3**: Including keyframe animations and transition effects.
-- **JavaScript**: For interactive animations.
-- **Bootstrap**: Or other frameworks, if applicable.
+- **HTML**
+- **CSS**
+- **JavaScript**
+- **Bootstrap**
 
 ---
